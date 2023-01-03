@@ -3,7 +3,7 @@
 This is a project to implement JUNIT testing with the following
 
 
-AssertTrue
+AssertTrue\n
 AssertFalse
 AssertSame
 AssertNotSame
