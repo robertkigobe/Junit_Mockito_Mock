@@ -3,11 +3,11 @@
 This is a project to implement JUNIT testing with the following
 
 
-AssertTrue\n
-AssertFalse
-AssertSame
-AssertNotSame
-AssertNull
-AssertnotNull
-AssertEquals
-AssertNotEquals
+AssertTrue. 
+AssertFalse. 
+AssertSame. 
+AssertNotSame. 
+AssertNull. 
+AssertnotNull. 
+AssertEquals. 
+AssertNotEquals. 
