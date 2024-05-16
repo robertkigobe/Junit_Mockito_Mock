@@ -1,2 +1,3 @@
-mvn clean test
+mvn clean test //used for testing
 mvn site -GgenerateReports=false //does the css for the report
+mvn dependency:tree //creates a dependency tree
