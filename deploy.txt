@@ -1,0 +1,2 @@
+mvn clean test
+mvn site -GgenerateReports=false //does the css for the report

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: net.kigobe.junitdemo.DemoUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.201 s <<< FAILURE! - in net.kigobe.junitdemo.DemoUtilsTest
+net.kigobe.junitdemo.DemoUtilsTest.testArrayEquals  Time elapsed: 0.071 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Arrays should be the same ==> array contents differ at index [2], expected: <D> but was: <C>
+	at net.kigobe.junitdemo.DemoUtilsTest.testArrayEquals(DemoUtilsTest.java:86)
+
